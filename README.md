@@ -1,4 +1,3 @@
 # COlOR DETECTION USING OPENCV <br>
 
-Hello, this is a simple color detection project using python and opencv <br>
-Be sure to checkout :)
+This repository contains my codes on the model for color detection with OpenCV and Python.
